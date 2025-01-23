@@ -335,10 +335,6 @@ export default class GoTrueClient {
             }
           }
 
-          // failed login attempt via url,
-          // remove old session as in verifyOtp, signUp and signInWith*
-          await this._removeSession()
-
           return { error }
         }
 

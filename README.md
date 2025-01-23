@@ -1,5 +1,7 @@
 # `auth-js`
 
+This is a fork of the [Supabase Auth](https://github.com/supabase/auth) API. This removes the resetting of session when a token is invalid.
+
 An isomorphic JavaScript client library for the [Supabase Auth](https://github.com/supabase/auth) API.
 
 ## Docs
