@@ -1,5 +1,5 @@
 {
-  "name": "@supabase/auth-js",
+  "name": "taylorhakes/auth-js",
   "version": "0.0.0",
   "private": false,
   "description": "Official client library for Supabase Auth",
