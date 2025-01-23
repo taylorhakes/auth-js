@@ -1,6 +1,6 @@
 {
-  "name": "taylorhakes/auth-js",
-  "version": "0.0.0",
+  "name": "auth-js-fix-token-reset",
+  "version": "0.0.1",
   "private": false,
   "description": "Official client library for Supabase Auth",
   "keywords": [
